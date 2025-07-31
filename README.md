@@ -7,4 +7,5 @@ Compiling and Running(Manually):
 ![img_1.png](img_1.png)
 
 Project Structure:
-![img_2.png](img_2.png)
+
+![img_3.png](img_3.png)
